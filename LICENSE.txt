@@ -1,0 +1,14 @@
+THis software is written by Flex Software.
+You are not allowed to distribute this code commercial.
+You are allowed to make freeware software with this code.
+And please:
+Do NOT copy this.
+Please write it again, so you learn something.
+Support free source code :)
+
+Alex, Flex Software.
+
+
+THIS CODE IS JUST MADE IN SOME MINUTES SO IT'S NOT OPTIMIZED IT CAN OCCUR ERRORS.
+
+THIS CODE ONLY MAKES AN .EXE, NO .CAB THINGS ETC.
